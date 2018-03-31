@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Budoucnost digitálního života</title>
-    <link>http://jan-martinek.github.io/hugo-start/categories/</link>
+    <link>https://dassan2.github.io/hugo-server/categories/</link>
     <description>Recent content in Categories on Budoucnost digitálního života</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     
-	<atom:link href="http://jan-martinek.github.io/hugo-start/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dassan2.github.io/hugo-server/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
