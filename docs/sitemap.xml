@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dassan2.github.io/hugo-server/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://dassan2.github.io/hugo-server/post/</loc>
   </url>
   
@@ -25,6 +21,10 @@
   
   <url>
     <loc>https://dassan2.github.io/hugo-server/post/web-remixing_2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dassan2.github.io/hugo-server/about/</loc>
   </url>
   
   <url>
